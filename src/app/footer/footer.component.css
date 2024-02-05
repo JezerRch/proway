@@ -1,7 +1,8 @@
 .footer {
-    background-color: var(--light-gray);
-    color: var(--gray);
+    background-color: #D3D3D3;
+    color: rgb(0, 0, 0);
     font-size: 18px;
+    /* font-family: 'Roboto'; */
 }
 
 .footer__container {
@@ -14,16 +15,17 @@
 .footer__copyright {
     text-align: center;
     margin-top: 20px;
-    background-color: var(--light-gray-2);
+    background-color: #D3D3D3;
     font-weight: bold;
     padding: 20px;
-    color: var(--gray);
+    color: rgb(0, 0, 0);
+    font-family: 'Roboto';
 }
 
 .footer__title {
     font-size: 22px;
     font-weight: bold;
-    color: var(--blue);
+    color: blue;
     margin-bottom: 5px;
 }
 
@@ -34,7 +36,7 @@
 
 
 .footer i {
-    color: var(--orange);
+    color: orange;
 }
 
 .footer li {

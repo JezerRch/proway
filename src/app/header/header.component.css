@@ -5,6 +5,7 @@
     justify-content: space-between;
     align-items: center;
     column-gap: 40px;
+    /* font-family: 'Roboto'; */
 }
 
 .main-header__title {
@@ -29,7 +30,7 @@
 
 .main-header__menu a {
     padding: 10px 10px;
-    color: gray;
+    color: rgb(0, 0, 0);
     font-weight: 400;
     font-size: 22px;
     text-decoration: none;
