@@ -16,6 +16,8 @@ export class ProdutosComponent {
 
   ngOnInit(): void {
     this.produtos = this.ProdutosService.getAll();
+    // console.log('Produtos: ', this.produtos);
+
   }
 
 }
