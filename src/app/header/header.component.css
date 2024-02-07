@@ -1,3 +1,7 @@
+a {
+    text-decoration: none;
+}
+
 .main-header {
     padding: 10px 0px;
     display: flex;
